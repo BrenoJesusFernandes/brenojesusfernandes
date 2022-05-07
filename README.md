@@ -6,11 +6,6 @@ More on [brenojesusfernandes.github.io](https://brenojesusfernandes.github.io)
 ---
 
 
-<a href="https://brenojesusfernandes.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html">How this works</a>
-<a href="https://github.com/brenojesusfernandes/brenojesusfernandes/actions"><img src="https://github.com/brenojesusfernandes/brenojesusfernandes/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
-
-<a href="https://visitor-badge.laobi.icu/badge?page_id=brenojesusfernandes.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=brenojesusfernandes.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
-
 <p></br></p>
 <p align="center">
   <a href="https://in.linkedin.com/in/brenojesusfernandes" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brenojesusfernandes"/></a> 
