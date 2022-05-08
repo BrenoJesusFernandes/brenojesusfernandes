@@ -1,7 +1,11 @@
-###  Just a problem solver ...
-Curious about me :smirk:? Click to get more information [brenojesusfernandes.github.io](https://brenojesusfernandes.github.io)
+##  Just a problem solver ... :bulb:
 
-<table><tr>
+Simplicity over complexity </br>
+Quality over speed  </br>
+Share over retain knowledge  </br>
+
+<img src="https://wallegend.net/gif/1348.gif">
+
 
 ---
 
@@ -9,9 +13,9 @@ Curious about me :smirk:? Click to get more information [brenojesusfernandes.git
 <p></br></p>
 <p align="center">
   <a href="https://in.linkedin.com/in/brenojesusfernandes" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brenojesusfernandes"/></a> 
+  <a href="https://brenojesusfernandes.github.io/" target="blank"><img src="https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="brenojesusfernandes" /></a>
+  <a href="https://kaggle.com/brenojesusfernandes" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="brenojesusfernandes"  /></a> 
   <a href="https://brenojesusfernandes.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="brenojesusfernandes" /></a> 
   <a href="https://twitter.com/brenojesusferna" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-    <a href="https://dev.to/brenojesusfernandes" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brenojesusfernandes" /></a>
-  <a href="https://kaggle.com/brenojesusfernandes" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="brenojesusfernandes"  /></a> 
 </p>  
 
