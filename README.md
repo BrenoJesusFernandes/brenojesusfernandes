@@ -4,7 +4,7 @@ Simplicity over complexity </br>
 Quality over speed  </br>
 Share over retain knowledge  </br>
 
-<img src="https://wallegend.net/gif/1348.gif">
+<img src="https://github.com/BrenoJesusFernandes/brenojesusfernandes/blob/main/img/1348.gif">
 
 
 ---
