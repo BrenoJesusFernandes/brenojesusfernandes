@@ -1,5 +1,5 @@
 ###  Just a problem solver ...
-Curious about me? Click to get more information [brenojesusfernandes.github.io](https://brenojesusfernandes.github.io)
+Curious about me :smirk:? Click to get more information [brenojesusfernandes.github.io](https://brenojesusfernandes.github.io)
 
 <table><tr>
 
