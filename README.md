@@ -4,7 +4,7 @@ Simplicity over complexity </br>
 Quality over speed  </br>
 Share over keep knowledge  </br>
 <p >
-  <img width="550" height="300" src="https://github.com/BrenoJesusFernandes/brenojesusfernandes/blob/main/img/profile-cover-clean.webp">
+  <img width="550" height="300" src="https://github.com/BrenoJesusFernandes/brenojesusfernandes/blob/main/img/profile-cover-clean-v2.webp">
 </p>
 
 
