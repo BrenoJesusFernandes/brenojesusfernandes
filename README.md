@@ -2,12 +2,12 @@
 
 Simplicity over complexity </br>
 Quality over speed  </br>
-Share over keep knowledge  </br>
+Share over retain knowledge  </br>
 
 
 <p align="center">  
-  <img  width="550" height="300" src="https://github.com/BrenoJesusFernandes/brenojesusfernandes/blob/main/img/become-one.webp"> </br>
-  We accept this memory and move beyong its reach </br>
+  <img  width="550" height="300" src=""> </br>
+  We accept this memory and move beyong its reach ☯</br>
 </p>
 
 ---
