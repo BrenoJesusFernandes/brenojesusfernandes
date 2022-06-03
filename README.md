@@ -6,7 +6,7 @@ Share over retain knowledge  </br>
 
 
 <p align="center">  
-  <img  width="600" height="300" src="https://raw.githubusercontent.com/BrenoJesusFernandes/brenojesusfernandes/main/img/to%20take%20away%20the%20pain.webp"> </br>
+  <img  width="650" height="300" src="https://raw.githubusercontent.com/BrenoJesusFernandes/brenojesusfernandes/main/img/to%20take%20away%20the%20pain.webp"> </br>
   To take away the pain ☯ </br>
 </p>
 
