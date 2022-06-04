@@ -5,9 +5,12 @@ Quality over speed  </br>
 Share over retain knowledge  </br>
 
 
-<p align="center">  
-  <img  width="650" height="300" src="https://raw.githubusercontent.com/BrenoJesusFernandes/brenojesusfernandes/main/img/to%20take%20away%20the%20pain.webp"> </br>
-  To take away the pain ☯ </br>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xPr0BfEcaCQ">
+    <img  width="650" height="300" src="https://raw.githubusercontent.com/BrenoJesusFernandes/brenojesusfernandes/main/img/to%20take%20away%20the%20pain.webp"> </br>
+  </a>
+  <i>"It was that somehow, </br> from within the derelict-horror, </br> they had learned a way to see inside an ugly broken thing... </br> and take away its pain."</i> </br></br>
+  <b> - We accept this memory and move beyond its reach ☯ 🍃 </b> </br>
 </p>
 
 ---
